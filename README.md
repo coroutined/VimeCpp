@@ -1,3 +1,6 @@
+![CMake Workflow](https://github.com/coroutined/VimeCpp/actions/workflows/cmake.yml/badge.svg)
+
+----
 # VimeCpp
 C++ библиотека для работы с VimeWorld API.
 
